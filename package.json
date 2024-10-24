@@ -1,0 +1,26 @@
+{
+  "name": "twinitx",
+  "version": "1.0.0",
+  "description": "Initialize Tailwind CSS without configuring manually",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "tsc"
+  },
+  "keywords": [
+    "tailwindcss",
+    "cli"
+  ],
+  "author": "Happer64Bit",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/prompts": "^2.4.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "prompts": "^2.4.2"
+  },
+  "bin": {
+    "twinitx": "./bin/index.js"
+  }
+}
