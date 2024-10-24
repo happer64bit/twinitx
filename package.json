@@ -21,6 +21,6 @@
     "prompts": "^2.4.2"
   },
   "bin": {
-    "twinitx": "./bin/index.js"
+    "twinitx": "./dist/index.js"
   }
 }
