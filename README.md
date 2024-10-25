@@ -27,15 +27,15 @@
 To run **Twinitx**, use one of the following commands:
 
 ```bash
-npx twinitx
+npx @happer64bit/twinitx
 ```
 
 ```bash
-yarn twinitx
+yarn @happer64bit/twinitx
 ```
 
 ```bash
-bunx twinitx
+bunx @happer64bit/twinitx
 ```
 
 ## Contribution

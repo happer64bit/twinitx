@@ -1,5 +1,5 @@
 {
-  "name": "twinitx",
+  "name": "@happer64bit/twinitx",
   "version": "1.0.0",
   "description": "Initialize Tailwind CSS without configuring manually",
   "main": "index.js",
@@ -21,6 +21,6 @@
     "prompts": "^2.4.2"
   },
   "bin": {
-    "twinitx": "./dist/index.js"
+    "twinitx": "dist/index.js"
   }
 }
